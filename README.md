@@ -1,1 +1,1 @@
-# CT_Medical_Imaging_Denoising
+# Denoising_CNN_CT
