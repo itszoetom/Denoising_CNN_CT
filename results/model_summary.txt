@@ -1,0 +1,2 @@
+DnCNN trainable params: 557,057
+UNet trainable params: 31,042,369
